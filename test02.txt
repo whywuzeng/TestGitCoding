@@ -1,0 +1,19 @@
+测试 fetch 和 merge 和操作这个意思 是什么。
+然后 再测试其他的命令
+checkout
+
+reset
+
+stast 暂停
+
+还有 soft 
+
+还有  hard
+
+还有 游离的指针头 以及这个 在linux 里含义
+
+还有最后的 commit ，带我穿越时空.
+
+以后最后一个 复杂的文档
+
+
